@@ -1,4 +1,4 @@
-# API de Livros (Flask)
+# API de Livros (Flask) Lista 1
 
 ## Objetivo
 API simples que disponibiliza, por meio de uma rota GET, os dados de três livros em formato JSON.
